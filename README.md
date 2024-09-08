@@ -1,5 +1,5 @@
-# Media di Blalia
-Al momento non ci sono indicazioni da pubblicare.
+# Repository dei media di Blalia
+Qui saranno conservati per motivi di backup i file multimediali di Blalia.
 
 ---
-Tutti i diritti riservati.
+Un repository di Blalia. Tutti i diritti riservati.
